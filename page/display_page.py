@@ -43,3 +43,4 @@ class DisplayPage(BaseAction):
         # self.driver.find_element_by_class_name("android.widget.ImageButton").click()
         # self.find_element(self.back_button).click()
         self.click(self.back_button)
+       p(t213123nir
